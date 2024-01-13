@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCIE")(type "KiCad")(uri "${KIPRJMOD}/PCIE.kicad_sym")(options "")(descr ""))
+)
